@@ -34,6 +34,7 @@ cd tu-repo
 pip install flask, requests
 python server.py (nombre del archivo)
 ```
+
 ```Opción 2: PowerShell en Windows
 
 git clone https://github.com/tu-usuario/tu-repo.git
