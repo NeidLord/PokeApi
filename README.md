@@ -24,9 +24,9 @@ Puedes agregar aquí imágenes que muestren:
 
 ---
 
-## Instalación
+### Instalación
 
-### Opción 1: Terminal o Bash
+#### Opción 1: Terminal o Bash
 
 ```bash
 - git clone https://github.com/tu-usuario/tu-repo.git
@@ -35,7 +35,7 @@ Puedes agregar aquí imágenes que muestren:
 - python server.py (nombre del archivo)
 ```
 
-### Opción 2: PowerShell en Windows
+#### Opción 2: PowerShell en Windows
 
 ```powershell
 - tener el server.py, template y static listos
