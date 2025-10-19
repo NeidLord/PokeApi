@@ -24,7 +24,7 @@ Puedes agregar aquí imágenes que muestren:
 
 ---
 
-### Instalación
+## Instalación
 
 #### Opción 1: Terminal o Bash
 
