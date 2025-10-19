@@ -35,7 +35,7 @@ pip install flask, requests
 python server.py (nombre del archivo)
 ```
 
-###Opción 2: PowerShell en Windows
+### Opción 2: PowerShell en Windows
 
 ```powershell
 
