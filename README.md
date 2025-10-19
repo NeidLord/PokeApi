@@ -35,7 +35,9 @@ pip install flask, requests
 python server.py (nombre del archivo)
 ```
 
-```Opción 2: PowerShell en Windows
+###Opción 2: PowerShell en Windows
+
+```powershell
 
 git clone https://github.com/tu-usuario/tu-repo.git
 Set-Location tu-repo
