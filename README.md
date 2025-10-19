@@ -29,17 +29,17 @@ Puedes agregar aquí imágenes que muestren:
 ### Opción 1: Terminal o Bash
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-pip install flask, requests
-python server.py (nombre del archivo)
+- git clone https://github.com/tu-usuario/tu-repo.git
+- cd tu-repo
+- pip install flask, requests
+- python server.py (nombre del archivo)
 ```
 
 ### Opción 2: PowerShell en Windows
 
 ```powershell
-
-git clone https://github.com/tu-usuario/tu-repo.git
-Set-Location tu-repo
-pip install flask, requests
-python server.py (nombre del archivo)
+- tener el server.py, template y static listos
+- pip install flask, requests
+- git clone https://github.com/tu-usuario/tu-repo.git
+- Set-Location tu-repo
+- python server.py (nombre del archivo)
